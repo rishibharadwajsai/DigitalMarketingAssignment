@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: "Kunti Rolls",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/kuntirolls.png",
         width: 1200,
         height: 630,
         alt: "Kunti Rolls - Delicious Indian Cuisine",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title: "Kunti Rolls - Premium Indian Food Delivery",
     description:
       "Order delicious Indian cuisine from Kunti Rolls. Fresh ingredients, authentic flavors, and fast delivery.",
-    images: ["/og-image.jpg"],
+    images: ["/kuntirolls.png"],
   },
   robots: {
     index: true,
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
       "@context": "https://schema.org",
       "@type": "Restaurant",
       name: "Kunti Rolls",
-      image: "https://kuntirolls.vercel.app/og-image.jpg",
+      image: "https://kuntirolls.vercel.app/kuntirolls.png",
       url: "https://kuntirolls.vercel.app",
       telephone: "+91-9876543210",
       servesCuisine: "Indian",
