@@ -1,0 +1,11 @@
+# robots.txt for Kunti Food Delivery
+
+User-agent: *
+Allow: /
+
+# Block admin or private routes if any
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemap reference
+Sitemap: https://kunti-food.vercel.app/sitemap.xml
