@@ -8,4 +8,4 @@ Disallow: /api/
 Disallow: /admin/
 
 # Sitemap reference
-Sitemap: https://kunti-food.vercel.app/sitemap.xml
+Sitemap: https://kuntirolls.vercel.app/sitemap.xml

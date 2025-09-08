@@ -7,36 +7,36 @@ import { Suspense } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Kunti - Premium Indian Food Delivery | Order Fresh Meals Online",
+  title: "Kunti Rolls - Premium Indian Food Delivery | Order Fresh Meals Online",
   description:
-    "Order fresh and authentic Indian meals online with Kunti. Fast delivery, rich flavors, and eco-friendly packaging.",
+    "Order fresh and authentic Indian meals online with Kunti Rolls. Fast delivery, rich flavors, and eco-friendly packaging.",
   keywords:
-    "food delivery, Indian food, online ordering, fresh meals, authentic cuisine, Kunti, Restaurant, takeout, delivery service, dine-in, catering, meal prep, gourmet food, spices, vegetarian options, non-vegetarian options, traditional recipes, modern twists, family meals, quick bites, healthy options, comfort food, snacks, beverages, desserts, specials, promotions, loyalty program, customer reviews, contactless delivery, safety measures, local ingredients, seasonal menu, chef's specials, catering services, group orders, meal deals",
-  authors: [{ name: "Kunti Food Delivery" }],
-  creator: "Kunti",
-  publisher: "Kunti",
+    "food delivery, Indian food, online ordering, fresh meals, authentic cuisine, Kunti Rolls, Restaurant, takeout, delivery service, dine-in, catering, meal prep, gourmet food, spices, vegetarian options, non-vegetarian options, traditional recipes, modern twists, family meals, quick bites, healthy options, comfort food, snacks, beverages, desserts, specials, promotions, loyalty program, customer reviews, contactless delivery, safety measures, local ingredients, seasonal menu, chef's specials, catering services, group orders, meal deals",
+  authors: [{ name: "Kunti Rolls" }],
+  creator: "Kunti Rolls",
+  publisher: "Kunti Rolls",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://kunti-food.vercel.app"),
+  metadataBase: new URL("https://kuntirolls.vercel.app"),
   alternates: {
     canonical: "/",
     languages: { "en-IN": "/", "en-US": "/" },
   },
   openGraph: {
-    title: "Kunti - Premium Indian Food Delivery",
+    title: "Kunti Rolls - Premium Indian Food Delivery",
     description:
-      "Order delicious Indian cuisine from Kunti. Fresh ingredients, authentic flavors, and fast delivery.",
-    url: "https://kunti-food.vercel.app",
-    siteName: "Kunti Food Delivery",
+      "Order delicious Indian cuisine from Kunti Rolls. Fresh ingredients, authentic flavors, and fast delivery.",
+    url: "https://kuntirolls.vercel.app",
+    siteName: "Kunti Rolls",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Kunti Food Delivery - Delicious Indian Cuisine",
+        alt: "Kunti Rolls - Delicious Indian Cuisine",
       },
     ],
     locale: "en_IN",
@@ -44,9 +44,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Kunti - Premium Indian Food Delivery",
+    title: "Kunti Rolls - Premium Indian Food Delivery",
     description:
-      "Order delicious Indian cuisine from Kunti. Fresh ingredients, authentic flavors, and fast delivery.",
+      "Order delicious Indian cuisine from Kunti Rolls. Fresh ingredients, authentic flavors, and fast delivery.",
     images: ["/og-image.jpg"],
   },
   robots: {
@@ -70,9 +70,9 @@ export const metadata: Metadata = {
     schema: {
       "@context": "https://schema.org",
       "@type": "Restaurant",
-      name: "Kunti Food Delivery",
-      image: "https://kunti-food.vercel.app/og-image.jpg",
-      url: "https://kunti-food.vercel.app",
+      name: "Kunti Rolls",
+      image: "https://kuntirolls.vercel.app/og-image.jpg",
+      url: "https://kuntirolls.vercel.app",
       telephone: "+91-9876543210",
       servesCuisine: "Indian",
       priceRange: "$$",
@@ -83,9 +83,9 @@ export const metadata: Metadata = {
       },
     } as any,
     socialProfiles: [
-      "https://twitter.com/kunti",
-      "https://instagram.com/kunti",
-      "https://facebook.com/kunti",
+      "https://twitter.com/kuntirolls",
+      "https://instagram.com/kuntirolls",
+      "https://facebook.com/kuntirolls",
     ],
   } as any,
 };

@@ -60,8 +60,8 @@ export function HeroSection() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/delicious-indian-thali-with-multiple-curries--rice.jpg"
-                alt="Delicious Indian Thali - Traditional meal with multiple curries, rice, and naan"
+                src="https://www.indianhealthyrecipes.com/wp-content/uploads/2024/02/chicken-kathi-roll-chicken-frankie.jpg"
+                alt="Delicious Indian Chicken Rolls - Traditional meal with multiple curries, roti, and chicken"
                 className="w-full h-[500px] lg:h-[600px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
@@ -71,8 +71,8 @@ export function HeroSection() {
             <div className="absolute -bottom-6 -left-6 bg-card border border-border rounded-xl p-4 shadow-lg">
               <div className="flex items-center gap-3">
                 <img
-                  src="/butter-chicken-curry-in-bowl.jpg"
-                  alt="Butter Chicken"
+                  src="https://www.licious.in/blog/wp-content/uploads/2022/12/Shutterstock_2132499279-750x750.jpg"
+                  alt="Butter Chicken Roll"
                   className="w-15 h-15 rounded-lg object-cover"
                 />
                 <div>

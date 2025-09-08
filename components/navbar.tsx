@@ -29,10 +29,10 @@ export function Navbar() {
               <a href="#menu" className="text-muted-foreground hover:text-primary transition-colors">
                 Menu
               </a>
-              <a href="#about" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#footer" className="text-muted-foreground hover:text-primary transition-colors">
                 About
               </a>
-              <a href="#contact" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#footer" className="text-muted-foreground hover:text-primary transition-colors">
                 Contact
               </a>
             </div>
