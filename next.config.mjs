@@ -9,8 +9,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/kuntirolls',      // 👈 this must match your repo name
-  assetPrefix: '/kuntirolls/',  // 👈 ensures correct asset paths
 }
 
 export default nextConfig
